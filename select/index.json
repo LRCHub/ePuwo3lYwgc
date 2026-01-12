@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "ユートピア",
+  "base_artist": "imase",
+  "createdAt": "2026-01-12T06:56:01.100523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バトル・フォー・ユートピア",
+      "artist": "Fear Factory",
+      "has_synced": false,
+      "path": "select/01_バトル・フォー・ユートピア_Fear_Factory.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ユートピア",
+      "artist": "Tesseract",
+      "has_synced": false,
+      "path": "select/02_ユートピア_Tesseract.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユートピア",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/03_ユートピア_imase.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "デート・イン・ユートピア",
+      "artist": "sweet ARMS(野水伊織、富樫美鈴、佐土原かおり、味里)",
+      "has_synced": false,
+      "path": "select/04_デート・イン・ユートピア_sweet_ARMS(野水伊織、富樫美鈴、佐土原かおり、味里).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "デート・イン・ユートピア",
+      "artist": "sweet ARMS",
+      "has_synced": false,
+      "path": "select/05_デート・イン・ユートピア_sweet_ARMS.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "デート・イン・ユートピア(オリジナル・カラオケ)",
+      "artist": "sweet ARMS(野水伊織、富樫美鈴、佐土原かおり、味里)",
+      "has_synced": true,
+      "path": "select/06_デート・イン・ユートピア(オリジナル・カラオケ)_sweet_ARMS(野水伊織、富樫美鈴、佐土原かおり、味里).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "デート・イン・ユートピア (オリジナル・カラオケ)",
+      "artist": "sweet ARMS",
+      "has_synced": true,
+      "path": "select/07_デート・イン・ユートピア_(オリジナル・カラオケ)_sweet_ARMS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ユートピア",
+      "artist": "B’z",
+      "has_synced": true,
+      "path": "select/08_ユートピア_B’z.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "トーキョー・ユートピア",
+      "artist": "ハルカトミユキ",
+      "has_synced": true,
+      "path": "select/09_トーキョー・ユートピア_ハルカトミユキ.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ユートピア",
+      "artist": "Sou",
+      "has_synced": true,
+      "path": "select/10_ユートピア_Sou.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ユートピア",
+      "artist": "WurtS",
+      "has_synced": true,
+      "path": "select/11_ユートピア_WurtS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ユートピア",
+      "artist": "imase",
+      "has_synced": true,
+      "path": "select/12_ユートピア_imase.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ユートピア",
+      "artist": "ゆず",
+      "has_synced": false,
+      "path": "select/13_ユートピア_ゆず.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "デート・イン・ユートピア",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/14_デート・イン・ユートピア_Various_Artists.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユートピア",
+      "artist": "imase",
+      "has_synced": false,
+      "path": "select/pl_01_ユートピア_imase.txt"
+    }
+  ]
+}
